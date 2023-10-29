@@ -6,7 +6,8 @@ Morse Code GUI
 Morse Code GUI is a user-friendly application that enables quick and easy conversion between text and Morse code. Built using Python's tkinter, it offers an intuitive interface and supports special characters commonly used in languages like German and Swedish/Finnish.
 
 ![Application Screenshot](application.png)
-Features
+
+Features:
 
     Text to Morse Conversion: Type in your text and get the corresponding Morse code instantly.
     Morse to Text Decoding: Have Morse code you can't understand? Just paste it in and get the original text back.
